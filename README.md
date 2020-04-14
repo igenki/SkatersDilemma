@@ -1,5 +1,5 @@
 # Data of Skater's Dilemma
-This repository provides the data used in [*Skater's Dilemma*](https://arxiv.org/abs/).←arXivが出たらそのリンクをあらためて張る
+This repository provides the data used in [*Skater's Dilemma*](https://arxiv.org/abs/).
 
 ## Video footage data
 The video footage data used in [*Skater's Dilemma*](https://arxiv.org/abs/) were collected from the following sites in YouTube. Those data were accessed on 27-28 December 2018.
