@@ -1,8 +1,8 @@
 # Data of Skater's Dilemma
-This repository provides the data used in *Skater's Dilemma*.
+This repository provides the data used in [*Skater's Dilemma*](https://arxiv.org/abs/).←arXivが出たらそのリンクをあらためて張る
 
 ## Video footage data
-The video footage data used in *Skater's Dilemma* were collected from the following sites in YouTube. Those data were accessed on 27-28 December 2018.
+The video footage data used in [*Skater's Dilemma*](https://arxiv.org/abs/) were collected from the following sites in YouTube. Those data were accessed on 27-28 December 2018.
 * [Men, Salt lake city, 2017/2018](https://www.youtube.com/watch?v=yx2DEeb4Wuo)
 * [Women, Salt lake city, 2017/2018](https://www.youtube.com/watch?v=7P_GbrkhTw8)
 * [Men, Calgary, 2017/2018](https://www.youtube.com/watch?v=ebRNPxLQZ0E)
