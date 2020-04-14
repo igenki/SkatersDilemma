@@ -1,7 +1,11 @@
 # Data of Skater's Dilemma
 This repository provides the data used in *Skater's Dilemma*.
 
-## Data
+## Video footage data
+The video footage data used in *Skater's Dilemma* were collected from the following sites in YouTube.
+* [Men, Salt lake city, 2017/2018](https://www.youtube.com/watch?v=yx2DEeb4Wuo)
+
+## Data for analysis
 * __rank_points_data.csv__: Data used in Fig. 1 and the statistical analysis, which describes the relationship between the intermediate rank of skaters, the lap to the finish, and the finish rank for the top finishers.
 * __tau_points_data.csv__: Data used in Figs. 2 & 3 and the statistical analysis, which describes the relationship between the finish rank and the exposed time, tau.
 * __StTime_Points_data.csv__: Data used in Fig. 4 and the statistical analysis, which describes the relationship between the normalized finish rank and the best time in time-trial races.
