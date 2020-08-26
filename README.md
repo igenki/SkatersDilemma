@@ -1,8 +1,8 @@
 # Data of Skater's Dilemma
-This repository provides the data used in [*Skater's Dilemma*](http://arxiv.org/abs/2004.06464).
+This repository provides the data used in [*Winning by hiding behind others: An analysis of speed skating data*](https://doi.org/10.1371/journal.pone.0237470).
 
 ## Video footage data
-The video footage data used in [*Skater's Dilemma*](http://arxiv.org/abs/2004.06464) were collected from the following sites in YouTube. Those data were accessed on 27-28 December 2018.
+The video footage data used in [*Winning by hiding behind others: An analysis of speed skating data*](https://doi.org/10.1371/journal.pone.0237470) were collected from the following sites in YouTube. Those data were accessed on 27-28 December 2018.
 * [Men, Salt lake city, 2017/2018](https://www.youtube.com/watch?v=yx2DEeb4Wuo)
 * [Women, Salt lake city, 2017/2018](https://www.youtube.com/watch?v=7P_GbrkhTw8)
 * [Men, Calgary, 2017/2018](https://www.youtube.com/watch?v=ebRNPxLQZ0E)
